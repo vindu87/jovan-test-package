@@ -2,8 +2,8 @@
   "name": "jovans-test-package",
   "version": "1.0.0",
   "description": "A nice greeter",
-  "main": "lib/Calc.js",
-  "types": "lib/Calc.d.ts",
+  "main": "lib/Greatnes.js",
+  "types": "lib/Greatnes.d.ts",
   "files": [
     "lib/**/*"
   ],
