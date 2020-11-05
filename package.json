@@ -1,6 +1,6 @@
 {
   "name": "@jovan-zivlak/jovans-test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A nice greeter",
   "main": "lib/Greatnes.js",
   "types": "lib/Greatnes.d.ts",
